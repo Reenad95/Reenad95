@@ -1,5 +1,6 @@
 - # Hey, I'm Renad Alfurayhi 👩🏻‍💻 
-I am a passionate learner with a strong interest in programming, AI, and innovation in technology. I work hard to improve my skills and stay updated with the latest advancements. Proficient in SwiftUI and Python, I am currently expanding my expertise by working with Flutter.</h3>
+**I am a passionate learner with a strong interest in programming, AI, and innovation in technology. I work hard to improve my skills and stay updated with the latest advancements. Proficient in SwiftUI and Python, I am currently expanding my expertise by working with Flutter.</h3>**
+
 
 **Data Scientist :** 
 Transforming raw data into actionable insights with AI and machine learning.
@@ -12,6 +13,9 @@ Crafting seamless, high-performance apps using SwiftUI and Apple’s latest tech
 
 
 
+- # GitHub Stats:
+
+![Renad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reenad95&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 
 <h3 align="left">Languages:</h3>
