@@ -1,5 +1,5 @@
 - # Hey, I'm Renad 👩🏻‍💻 
-**I am a passionate learner with a strong interest in programming, AI, and innovation in technology. I work hard to improve my skills and stay updated with the latest advancements. Proficient in SwiftUI and Python, I am currently expanding my expertise by working with Flutter.</h3>**
+I am a passionate learner with a strong interest in **programming, AI,** and innovation in technology. I work hard to improve my skills and stay updated with the latest advancements. Proficient in **SwiftUI and Python**, I am currently expanding my expertise by working with **Flutter**.</h3>
 
 
 **Data Scientist :** 
@@ -13,7 +13,8 @@ Crafting seamless, high-performance apps using SwiftUI and Apple’s latest tech
 
 
 
-//GitHub Stats 📈 ://![Renad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reenad95&show_icons=true&hide_title=true&count_private=true&hide=prs)
+- # GitHub Stats 📈 :
+  ![Renad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reenad95&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 
 <h3 align="left">Languages:</h3>
@@ -53,6 +54,8 @@ Crafting seamless, high-performance apps using SwiftUI and Apple’s latest tech
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   </a>
 </p>
+
+
 
 - # How to reach me 💬: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/renad-alfurayhi-938abb263/)
 
