@@ -17,7 +17,7 @@ Crafting seamless, high-performance apps using SwiftUI and Apple’s latest tech
   ![Renad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reenad95&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages :</h3>
 <p align="left">
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
@@ -30,7 +30,7 @@ Crafting seamless, high-performance apps using SwiftUI and Apple’s latest tech
   </a>
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tools :</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
