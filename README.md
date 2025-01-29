@@ -13,7 +13,7 @@ Crafting seamless, high-performance apps using SwiftUI and Apple’s latest tech
 
 
 
-- # GitHub Stats 📈 :
+- # GitHub Stats 📈 
   ![Renad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reenad95&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 
@@ -57,7 +57,7 @@ Crafting seamless, high-performance apps using SwiftUI and Apple’s latest tech
 
 
 
-- # How to reach me 💬: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/renad-alfurayhi-938abb263/)
+- # How to reach me 💬 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/renad-alfurayhi-938abb263/)
 
 Thank you for visiting - Let’s continue building, learning, and innovating together—because the best is yet to come! 🚀
 
