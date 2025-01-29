@@ -13,9 +13,7 @@ Crafting seamless, high-performance apps using SwiftUI and Apple’s latest tech
 
 
 
-- # GitHub Stats 📈 :
-
-![Renad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reenad95&show_icons=true&hide_title=true&count_private=true&hide=prs)
+//GitHub Stats 📈 ://![Renad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reenad95&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 
 <h3 align="left">Languages:</h3>
