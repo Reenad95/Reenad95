@@ -1,4 +1,4 @@
-- # Hey, I'm Renad Alfurayhi 👩🏻‍💻 
+- # Hey, I'm Renad 👩🏻‍💻 
 **I am a passionate learner with a strong interest in programming, AI, and innovation in technology. I work hard to improve my skills and stay updated with the latest advancements. Proficient in SwiftUI and Python, I am currently expanding my expertise by working with Flutter.</h3>**
 
 
