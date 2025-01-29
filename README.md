@@ -1,7 +1,7 @@
-- # Hey, I'm Renad Alfurayhi
+- # Hey, I'm Renad Alfurayhi 👩🏻‍💻 
 I am a passionate learner with a strong interest in programming, AI, and innovation in technology. I work hard to improve my skills and stay updated with the latest advancements. Proficient in SwiftUI and Python, I am currently expanding my expertise by working with Flutter.</h3>
 
- **Data Scientist :** 
+**Data Scientist :** 
 Transforming raw data into actionable insights with AI and machine learning.
 
 **iOS Development :**
@@ -9,8 +9,10 @@ Crafting seamless, high-performance apps using SwiftUI and Apple’s latest tech
 
 **IoT Development :**
  Connecting smart devices to enhance automation, efficiency, and real-time decision-making.
- 
-- # How to reach me : [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/renad-alfurayhi-938abb263/)
+
+
+
+
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -50,7 +52,9 @@ Crafting seamless, high-performance apps using SwiftUI and Apple’s latest tech
   </a>
 </p>
 
+- # How to reach me : [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/renad-alfurayhi-938abb263/)
 
+Thank you for visiting - Let’s continue building, learning, and innovating together—because the best is yet to come! 🚀
 
 <!---
 Reenad95/Reenad95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
